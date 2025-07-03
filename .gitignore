@@ -1,1 +1,4 @@
 ignorar/*
+
+#environment
+venv/*
